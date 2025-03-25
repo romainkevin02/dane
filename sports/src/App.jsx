@@ -1,13 +1,11 @@
-import MainBody from "./comps/body"
-import NavBar from "./comps/navBar"
 
+import FaceBook from './comps/FaceBook'
 
 function App() {
 
   return (
     <>
-      <NavBar/>
-      <MainBody/>
+    <FaceBook/>
       
     </>
   )
