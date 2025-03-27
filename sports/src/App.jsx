@@ -1,14 +1,11 @@
-
-import FaceBook from './comps/FaceBook'
+import Login from "./comps/logIn";
 
 function App() {
-
-  return (
-    <>
-    <FaceBook/>
-      
-    </>
-  )
+    return (
+        <>
+            <Login />
+        </>
+    );
 }
 
-export default App
+export default App;
